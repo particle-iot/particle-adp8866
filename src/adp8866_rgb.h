@@ -1,6 +1,6 @@
 #pragma once
 
-#include "irgb.hpp"
+#include "irgb.h"
 #include "adp8866_led.h"
 
 
